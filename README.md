@@ -2,11 +2,11 @@
 
 [How to Wekan](https://wekan.team) is a complete tutorial website to learn all about Wekan and Kanban Board Managment! It was built on top of  [Meteor](https://www.meteor.com/) and many amazing contributors. All content on the site is completely free and open-source.
 
-[![](https://raw.githubusercontent.com/saurabharch/wekanhow/master/src/assets/graphics/first-look.png)](https://wekan.team)
+[![](https://raw.githubusercontent.com/wekan/wekanhow/master/src/assets/graphics/first-look.png)](https://wekan.team)
 
 ## Content
 
-The content for all tutorials is located in the  [`/content`](https://github.com/saurabharch/wekanhow/tree/master/content) directory. Here is an overview of all the tutorials that are available at the moment:
+The content for all tutorials is located in the  [`/content`](https://github.com/wekan/wekanhow/tree/master/content) directory. Here is an overview of all the tutorials that are available at the moment:
 
 #### GraphQL
 
@@ -30,7 +30,7 @@ As the whole project is open-source, you're more than welcome to fix typos and o
 You can run a local instance of How to GraphQL by executing the following commands in a terminal:
 
 ```sh
-git clone git@github.com:saurabharch/wekanhow.git
+git clone git@github.com:wekan/wekanhow.git
 cd wekanhow
 yarn install
 yarn start # http://localhost:8000/
