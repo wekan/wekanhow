@@ -8,7 +8,7 @@
 
 The content for all tutorials is located in the  [`/content`](https://github.com/wekan/wekanhow/tree/master/content) directory. Here is an overview of all the tutorials that are available at the moment:
 
-#### GraphQL
+#### Wekan
 
 - (Coming Soon)
 

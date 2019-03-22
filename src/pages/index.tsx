@@ -1,5 +1,5 @@
 import * as React from 'react'
-// import Chooser from '../components/home/Chooser'
+import Chooser from '../components/home/Chooser'
 import Intro from '../components/home/Intro'
 import App from '../components/App'
 import { extractSteps } from '../utils/graphql'
@@ -35,7 +35,7 @@ export default (props: Props) => {
         overrideDescription={overrideDescription}
       />
       <Intro steps={steps} location={props.location} />
-      {/* <Chooser mds={steps} location={props.location} history={props.history} /> */}
+      <Chooser mds={steps} location={props.location} history={props.history} />
       <WhatWeBuild />
       {/* <LandingPlayground />  */}
        <Team />
