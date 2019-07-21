@@ -1,4 +1,6 @@
 # How to Wekan Kanban Board 🎓
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwekan%2Fwekanhow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwekan%2Fwekanhow?ref=badge_shield)
+
 
 [How to Wekan](https://wekan.team) is a complete tutorial website to learn all about Wekan and Kanban Board Managment! It was built on top of  [Meteor](https://www.meteor.com/) and many amazing contributors. All content on the site is completely free and open-source.
 
@@ -37,3 +39,7 @@ yarn start # http://localhost:8000/
 ```
 
 > Note: If you're using Node 8, you might need to invoke `npm install -g node-gyp` before you're starting the app. More info [here](https://github.com/gatsbyjs/gatsby/issues/1754).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwekan%2Fwekanhow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwekan%2Fwekanhow?ref=badge_large)
