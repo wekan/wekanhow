@@ -8,7 +8,7 @@
   ],
   "dependencies": {
     "transform-runtime": "^0.0.0",
-    "ts-loader": "^2.0.3",
+    "ts-loader": "^2.3.7",
     "typescript": "^2.2.1"
   },
   "devDependencies": {
