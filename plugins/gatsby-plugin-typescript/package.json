@@ -9,7 +9,7 @@
   "dependencies": {
     "transform-runtime": "^0.0.0",
     "ts-loader": "^2.0.3",
-    "typescript": "^2.2.1"
+    "typescript": "^2.9.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1"
